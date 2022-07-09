@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Saurabh Ramteke(@srksaurabh1), pursuing master in Data Science.
-- 👀 I’m interested in Data Science, AI, ML, DL, CV
-- 🌱 I’m currently learning computer vision and machine learning
-- 💞️ I’m looking to collaborate on self-driving cars, image recognition, machine learning
+ <h1>  Hi, I’m Saurabh Ramteke 👋 </h1>
+
+
+- 📚 Currently, I'm pursuing master in Data Science from DIAT, Pune.
+- 👀 I’m interested in Data Science and allied fields.
+- 🌱 I’m currently learning Javascript, Competitive Programming
+- 💞️ I’m looking to collaborate on Data Science project.
+- 💬 Ask me about python, machine Learning.
 - 📫 You can reach me at srksaurbzz@gmail.com
+- ⚡ Fun fact: We can talk about Sociology  all day.
 
 <!---
 srksaurabh1/srksaurabh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
