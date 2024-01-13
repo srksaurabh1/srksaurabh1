@@ -1,7 +1,7 @@
  <h1>  Hi, I’m Saurabh Ramteke 👋 </h1>
 
 
-- 📚 Currently, I'm pursuing master in Data Science from DIAT, Pune.
+- 📚 Software Developer and Data Scientist
 - 👀 I’m interested in Data Science and allied fields.
 - 🌱 I’m currently learning Javascript, Competitive Programming
 - 💞️ I’m looking to collaborate on Data Science project.
