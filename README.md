@@ -1,7 +1,7 @@
-<h1>👋 Hi, I’m Saurabh Ramteke! </h1>
+<h2>👋 Hey, I’m Saurabh Ramteke! </h2>
 Welcome to my GitHub profile! 
 
-🚀 About Me
+<h3>🚀 About Me</h3>
 
 📚 Role: Data Scientist @ Turing
 
@@ -11,14 +11,14 @@ Welcome to my GitHub profile!
 
 🌱 Currently Learning: I'm always expanding my skillset! Currently, I'm diving into AI Agents and honing my problem-solving abilities through Competitive Programming.
 
-🤝 Let's Connect!
+<h3>🤝 Let's Connect!</h3>
 💞️ Collaboration: I'm actively looking to collaborate on exciting Data Science projects. If you have an idea or need a hand, let's connect!
 
 💬 Ask Me About: Feel free to reach out with questions about Python, Machine Learning, or anything related to data.
 
 📫 Contact: You can reach me directly at srksaurbzz@gmail.com
 
-✨ Fun Fact
+<h3>✨ Fun Fact</h3>
 ⚡ We can talk about Sociology all day!
 
 Thanks for stopping by!
