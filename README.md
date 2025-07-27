@@ -21,4 +21,3 @@ Welcome to my GitHub profile!
 ⚡ We can talk about Sociology all day!
 
 Thanks for stopping by!
-https://github-readme-stats.vercel.app/api?username=srksaurabh1)
