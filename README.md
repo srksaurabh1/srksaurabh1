@@ -1,15 +1,23 @@
- <h1>  Hi, I’m Saurabh Ramteke 👋 </h1>
+👋 Hi, I’m Saurabh Ramteke!
+Welcome to my GitHub profile! 
 
+🚀 About Me
+📚 Role: Data Scientist @ Turing
 
-- 📚 Software Developer and Data Scientist
-- 👀 I’m interested in Data Science and allied fields.
-- 🌱 I’m currently learning Javascript, Competitive Programming
-- 💞️ I’m looking to collaborate on Data Science project.
-- 💬 Ask me about python, machine Learning.
-- 📫 You can reach me at srksaurbzz@gmail.com
-- ⚡ Fun fact: We can talk about Sociology  all day.
+👀 Experience: 3+ years of professional experience in the data science domain.
 
-<!---
-srksaurabh1/srksaurabh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Interests: Deeply interested in Data Science and all its allied fields, including Machine Learning, AI, and data visualization.
+
+🌱 Currently Learning: I'm always expanding my skillset! Currently, I'm diving into AI Agents and honing my problem-solving abilities through Competitive Programming.
+
+🤝 Let's Connect!
+💞️ Collaboration: I'm actively looking to collaborate on exciting Data Science projects. If you have an idea or need a hand, let's connect!
+
+💬 Ask Me About: Feel free to reach out with questions about Python, Machine Learning, or anything related to data.
+
+📫 Contact: You can reach me directly at srksaurbzz@gmail.com
+
+✨ Fun Fact
+⚡ We can talk about Sociology all day!
+
+Thanks for stopping by!
