@@ -21,4 +21,4 @@ Welcome to my GitHub profile!
 ⚡ We can talk about Sociology all day!
 
 Thanks for stopping by!
-: https://github.com/anuraghazra/github-readme-stats#most-used-languages-card
+: https://github.com/srksaurabh1
