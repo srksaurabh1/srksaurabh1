@@ -5,9 +5,15 @@ Welcome to my GitHub profile 🚀
 
 <h3>🚀 About Me</h3>
 
-💼 **Role:** Data Scientist \n
-📊 **Experience:** 3 years of experience in Data Science and Machine Learning. \n
+💼 **Role:** Data Scientist 
+
+
+📊 **Experience:** 3 years of experience in Data Science and Machine Learning. 
+
+
 💡 **Focus Areas:** Machine Learning, AI, NLP, Deep Learning, and Data Visualization.
+
+
 🎯 **Goal:** Building scalable AI systems and real-world intelligent products.
 
 🌱 **Currently Exploring:**
